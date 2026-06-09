@@ -2,13 +2,13 @@
 <h1 align="left"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="50"
-         width="50" /> I'm Vibhanshu!</h1>
+         width="50" /> I'm Shikha!</h1>
          <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOYY&color=brightgreen" alt="" align="right" />
 
 
 ## Welcome to My GitHub Profile
 
-- 🏫 I'm currently studying as 3rd year CSE student at [Psit Engineering College](https://www.psit.ac.in// "visit my college website").
+- 🏫 I'm Graduated at [Sage University College]("https://sageuniversity.in/").
 - 🤩 I'm down into projects and collaborations.
 
 
@@ -22,21 +22,21 @@
   <table>
     <tr>
       <td>
-          <a href="https://www.linkedin.com/in/vibhanshu-srivastava-04a7b3380/" target="_blank" title="Visit my Linkedin">
+          <a href="https://www.linkedin.com/in/shikhamandre31/" target="_blank" title="Visit my Linkedin">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
           </a>
       </td>
-      <td>
+      <!-- <td>
           <a href="https://x.com/Vibhans81860441" target="_blank" title="Visit my twitter">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
           </a>
-      </td>
-      <td>
+      </td> -->
+      <!-- <td>
          <a href="https://discord.com/channels/@me/1215481526867988495" target="_blank" title="Join My Discord Channel">
           <img src="https://www.svgrepo.com/show/452188/discord.svg" alt="discord" width="50" height="50" />
          </a>
       </td>
-      <td>
+      <td> -->
           <a href="https://www.instagram.com/vibhanshu_srivastav/" target="_blank" title="Visit my Instagram">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
           </a>
