@@ -49,7 +49,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOYY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEBRAKERBOYY&theme=blueberry_duo"/> |
 | --- | ---- |
 
-![](https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOYY&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+![]
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
 | --- |
