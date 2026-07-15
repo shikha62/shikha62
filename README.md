@@ -37,7 +37,7 @@
          </a>
       </td>
       <td> -->
-          <a href="https://www.instagram.com/vibhanshu_srivastav/" target="_blank" title="Visit my Instagram">
+          <a href="https://www.instagram.com/shikhhaaa_31/" target="_blank" title="Visit my Instagram">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
           </a>
       </td>
